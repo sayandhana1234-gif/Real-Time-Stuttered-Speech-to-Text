@@ -163,16 +163,18 @@ This work was developed as a group academic project.
 
 ## My Contribution
 
-Individual contributions will be documented separately to distinguish personal work from the overall team project.
+My primary contribution to this group project focused on dataset processing and preparation for the speech disfluency analysis workflow.
+
+- Worked on processing and preparing speech datasets for model development.
+- Assisted in organizing and preparing audio data for further analysis.
+- Contributed to preparing speech data used in identifying disfluencies such as repetitions, prolongations, blocks and interjections.
+- Supported the project through dataset-related activities.
 
 ## Future Enhancements
 
-- Support for additional Indian and international languages.
-- Improved disfluency detection and speech recognition models.
-- Enhanced personalization using user-specific speech patterns.
-- Optimization for mobile and low-resource environments.
-- Improved real-time processing and accessibility.
-
+- Support for additional languages.
+- Offline functionality without requiring an internet connection.
+  
 ## Acknowledgment
 
 We express our sincere gratitude to the faculty of Adi Shankara Institute of Engineering and Technology for their guidance, encouragement and support throughout the project.
