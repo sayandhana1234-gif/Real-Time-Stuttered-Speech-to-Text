@@ -103,8 +103,6 @@ DJANGO_SECRET_KEY=your_django_secret_key
 GEMINI_API_KEY=your_gemini_api_key
 ```
 
-Use your own private API keys. Never upload the `.env` file to GitHub.
-
 ### 5. Run Database Migrations
 
 ```bash
@@ -134,8 +132,6 @@ The research evaluates the proposed framework using speech disfluency detection 
 A relative Word Error Rate (WER) reduction of approximately **56%** was reported after applying the proposed fluency correction pipeline.
 
 The research also includes F1-score comparisons and ROC curve analysis to evaluate disfluency detection performance.
-
-*Note: These figures represent the results reported in the research paper.*
 
 ## Research Publication
 
@@ -174,7 +170,7 @@ My primary contribution to this group project focused on dataset processing and 
 
 - Support for additional languages.
 - Offline functionality without requiring an internet connection.
-  
+
 ## Acknowledgment
 
 We express our sincere gratitude to the faculty of Adi Shankara Institute of Engineering and Technology for their guidance, encouragement and support throughout the project.
