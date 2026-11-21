@@ -9,6 +9,7 @@ This project focuses on developing a real-time speech-to-text conversion system 
 The system, named **Emotion-Aware Assistive Speech Generator (EASG)**, integrates speech acquisition, disfluency detection, automatic speech recognition and NLP-based text correction into a unified workflow.
 
 The application provides a web-based interface developed using Django and supports microphone input, audio uploads, speech transcription and corrected text generation.
+![Main Interface - Audio Upload](homepage.jpeg)
 
 ## Key Features
 
